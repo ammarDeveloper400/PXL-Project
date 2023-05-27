@@ -1,0 +1,12 @@
+Hello
+
+You don't need to import the database again, just
+copy the below text and paste it using ctrl + v
+and follow the video instructions:
+
+*****************************
+ALTER TABLE products
+ADD country VARCHAR(128);
+*****************************
+
+Thank you
