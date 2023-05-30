@@ -1,1 +1,0 @@
-<footer class="footer"> <?php echo $settings->copy_right;?></footer>
